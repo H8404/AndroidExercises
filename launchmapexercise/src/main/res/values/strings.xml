@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LaunchMapExercise</string>
+    <string name="info_txt">Give a location (lat,lng)</string>
+</resources>
