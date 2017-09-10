@@ -5,4 +5,7 @@ ScreenShots can be found on screenshot folder
 Folder Exercise
 
 ## Week 36
-Folder 
+Folders:
+basicuicontrolsexercise1
+basicuicontrolsexercise2
+launchmapexercise
