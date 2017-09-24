@@ -3,7 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Exercise1.iml" filepath="$PROJECT_DIR$/Exercise1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicuicontrolsexercise1/basicuicontrolsexercise1.iml" filepath="$PROJECT_DIR$/basicuicontrolsexercise1/basicuicontrolsexercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicuicontrolsexercise2/basicuicontrolsexercise2.iml" filepath="$PROJECT_DIR$/basicuicontrolsexercise2/basicuicontrolsexercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise/exercise.iml" filepath="$PROJECT_DIR$/exercise/exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageviewexercise/imageviewexercise.iml" filepath="$PROJECT_DIR$/imageviewexercise/imageviewexercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/launchmapexercise/launchmapexercise.iml" filepath="$PROJECT_DIR$/launchmapexercise/launchmapexercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/musicplayerexercise/musicplayerexercise.iml" filepath="$PROJECT_DIR$/musicplayerexercise/musicplayerexercise.iml" />
     </modules>
   </component>
 </project>

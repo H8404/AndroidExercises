@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Exercise1</string>
-    <string name="hello_txt">Terve maailma!</string>
-    <string name="hello_txt_land">Terve vaakatasoinen maailma!</string>
-    <string name="another_txt">Tässä on toinen testi teksti.</string>
-</resources>

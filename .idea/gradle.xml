@@ -8,7 +8,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/basicuicontrolsexercise1" />
+            <option value="$PROJECT_DIR$/basicuicontrolsexercise2" />
+            <option value="$PROJECT_DIR$/exercise" />
+            <option value="$PROJECT_DIR$/imageviewexercise" />
+            <option value="$PROJECT_DIR$/launchmapexercise" />
+            <option value="$PROJECT_DIR$/musicplayerexercise" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
